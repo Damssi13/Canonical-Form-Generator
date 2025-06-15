@@ -1,6 +1,5 @@
 #!/bin/bash
 
-
 if [ -z "$1" ]; then
     echo "Usage: ./create_class.sh ClassName"
     exit 1
